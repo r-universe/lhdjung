@@ -11,3 +11,6 @@
 [submodule "scrutiny"]
 	path = scrutiny
 	url = https://github.com/lhdjung/scrutiny
+[submodule "unsum"]
+	path = unsum
+	url = https://github.com/lhdjung/unsum
